@@ -1,4 +1,4 @@
-var GIPHY_PUB_KEY = '0caB0mf9hB1Iwf0YjYpmMZuLpjth9saa',
+var GIPHY_PUB_KEY = 'w3AmQwRgn0D7jWLViruDyF8BGZ9q0d3u',
     GIPHY_API_URL = 'https://api.giphy.com';
 
 
